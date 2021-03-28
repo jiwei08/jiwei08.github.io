@@ -250,7 +250,7 @@ defaults:
   # _teachingassistant
   - scope:
       path: ""
-      type: teachingassistant
+      type: teaching
     values:
       layout: single
       author_profile: true
