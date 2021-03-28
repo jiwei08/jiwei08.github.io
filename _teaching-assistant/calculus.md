@@ -1,8 +1,8 @@
 ---
-title: "Calculus"
+title: "calculus"
 collection: teaching-assistant
 type: "Undergraduate course"
-permalink: /teaching-assistant/Calculus
+permalink: /teaching-assistant/calculus
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
