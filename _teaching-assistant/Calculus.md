@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching-assistant
 type: "Undergraduate course"
-permalink: /teaching-assistant/AT1
+permalink: /teaching-assistant/Calculus
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
