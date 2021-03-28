@@ -1,6 +1,6 @@
 ---
-title: "calculus"
-collection: teaching-assistant
+title: "Calculus"
+collection: teachingassistant
 type: "Undergraduate course"
 permalink: /teaching-assistant/calculus
 venue: "University 1, Department"
