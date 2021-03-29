@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant experience 1"
+title: "Calculus"
 collection: teachingassistant
 type: "Undergraduate course TA"
 permalink: /teaching-assistant/2018-fall-ta
