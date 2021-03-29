@@ -1,6 +1,6 @@
 ---
 title: "Calculus"
-collection: teachingassistant
+collection: teaching
 type: "Undergraduate course TA"
 permalink: /teaching-assistant/2018-fall-ta
 venue: "USTC, School of Mathematical Sciences"
