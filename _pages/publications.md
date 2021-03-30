@@ -17,4 +17,4 @@ No publication yet.
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-{$ comment %}
+{$ endcomment %}
