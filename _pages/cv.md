@@ -23,21 +23,30 @@ Skills
 
 Publications
 ======
+Updating.
+{% comment %}
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endcomment %}
   
 Talks
 ======
+Updating.
+{% comment %}
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+{% endcomment %}
   
 Teaching
 ======
+Updating.
+{% comment %}
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+{% endcomment %}
   
 Service and leadership
 ======
